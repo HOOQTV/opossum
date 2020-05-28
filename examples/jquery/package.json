@@ -27,7 +27,7 @@
     "bootstrap": "~3.3.7",
     "hapi": "~16.0.1",
     "inert": "~4.0.3",
-    "jquery": "~3.1.1"
+    "jquery": "~3.5.1"
   },
   "bugs": {
     "url": "https://github.com/bucharest-gold/opossum/issues"
