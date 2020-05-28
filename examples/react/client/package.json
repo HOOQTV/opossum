@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "0.8.5"
+    "react-scripts": "0.9.5"
   },
   "dependencies": {
     "browserify": "^13.1.0",
@@ -13,7 +13,7 @@
     "opossum": "^0.6.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "react-scripts": "^0.8.5"
+    "react-scripts": "^0.9.5"
   },
   "scripts": {
     "start": "react-scripts start",
